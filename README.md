@@ -1,2 +1,6 @@
-# slack-api
-Call the Slack API to upload files to channels and individuals using Python
+# How to upload files to Slack with Python
+
+```
+$ python script-name
+<Response [200]>
+```
